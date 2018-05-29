@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView texto;
     private String [] numeros = {"0","1","2","3","4","5"};
 
-
+// Primeiro Projeto do Android
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
